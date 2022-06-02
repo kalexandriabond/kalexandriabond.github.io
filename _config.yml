@@ -59,9 +59,9 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
+  hide                   : true
+search                   : true
+search_full_content      : true
 search_provider          : # lunr (default), algolia, google
 lunr:
   search_within_pages    : # true, false (default)
@@ -106,26 +106,26 @@ analytics:
 # Site Author
 author:
   name             : "K. Alexandria Bond, PhD"
-  avatar           : "/data/assets/images/headshot_placeholder.png"
+  avatar           : "/images/headshot_placeholder.png"
   bio              : "Computational Cognitive Neuroscience researcher at Carnegie Mellon University"
   location         : "Pittsburgh, PA"
-  email            : "kbond@alumni.cmu.edu"
+  # email            : "kbond@alumni.cmu.edu"
   links:
-    - label: "Email"
+    - label: "email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:kbond@alumni.cmu.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/__zetetic__"
+      url: "https://twitter.com/__zetetic__"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/kalexandriabond"
+      url: "https://github.com/kalexandriabond"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
