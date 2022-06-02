@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm Alexandria. I recently graduated with my PhD in Cognitive Neuroscience from the [Neuroscience Institute](http://www.cmu.edu/ni) and the [Center for the Neural Basis of Cognition](https://www.cnbc.cmu.edu/) at Carnegie Mellon University. I was advised by [Tim Verstynen](https://www.cmu.edu/dietrich/psychology/cognitiveaxon/members.html).
+Hello! I'm Alexandria. I recently graduated with my PhD in Cognitive Neuroscience from the [Center for the Neural Basis of Cognition](https://www.cnbc.cmu.edu/) and the Psychology Department at Carnegie Mellon University. I was advised by [Tim Verstynen](https://www.cmu.edu/dietrich/psychology/cognitiveaxon/members.html).
 
 <!-- I aim to better understand how humans learn to see and understand the world, and how networks within our brains support these feats of perception and cognition. In particular, I am interested in cortical networks underlying high-level vision (face and object recognition and reading), and tend to think about these networks through the lens of cognitive computational neuroscience and deep learning, with a focus on generic architectures, learning algorithms, and naturalistic inputs. I also do neuroimaging and psychophysical experiments to gain new empirical insights, and am interested in translating novel insights into better treatments for developmental and acquired neurological and neuropsychological disorders.  -->
 

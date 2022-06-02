@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "K. Alexandria Bond"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : ""
@@ -107,11 +107,11 @@ analytics:
 author:
   name             : "K. Alexandria Bond, PhD"
   avatar           : "/images/headshot_placeholder.png"
-  bio              : "Computational Cognitive Neuroscience researcher at Carnegie Mellon University"
+  bio              : "Computational Cognitive Neuroscience at Carnegie Mellon University"
   location         : "Pittsburgh, PA"
   # email            : "kbond@alumni.cmu.edu"
   links:
-    - label: "email"
+    - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:kbond@alumni.cmu.edu"
     - label: "Website"
