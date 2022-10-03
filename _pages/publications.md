@@ -3,16 +3,18 @@ layout: single
 title: "Publications"
 permalink: /publications/
 author_profile: true
----<img align="left" src="/images/encoding_competition.png" width="150" style="margin-right:10px"/> <b>[Competition between action plans tracks with
+---
+
+<img align="left" src="/images/encoding_competition.png" width="150" style="margin-right:10px"/> <b>[Competition between action plans tracks with
 evidence accumulation during flexible decision-making](https://github.com/kalexandriabond/kalexandriabond.github.io)</b> <br>
-<b>Krista Bond</b>, Javier Rasero, Raghav Madan, Jyotika Bahuguna, Jonathan E Rubin, Timothy Verstynen (2022).\
+<b>Krista Bond</b>, Javier Rasero, Raghav Madan, Jyotika Bahuguna, Jonathan E Rubin, & Timothy Verstynen (2022).\
 <i>bioRxiv</i>.
 
 <br style="clear:both" />
 <br>
 
 <img align="left" src="/images/drift_bound_dynamic.png" width="150" style="margin-right:10px"/> <b>[Dynamic decision policy reconfiguration under outcome uncertainty](https://elifesciences.org/articles/65540)</b> <br>
-<b>Krista Bond</b>, Kyle Dunovan, Alexis Porter, Jonathan E Rubin, Timothy Verstynen (2022).\
+<b>Krista Bond</b>, Kyle Dunovan, Alexis Porter, Jonathan E Rubin, & Timothy Verstynen (2022).\
 <i>eLife</i>.
 
 
@@ -24,12 +26,12 @@ evidence accumulation during flexible decision-making](https://github.com/kalexa
 <b>Krista Bond</b> & Jordan Taylor (2017).\
 <i>eNeuro</i>.
 
-
 <br style="clear:both" />
+<br>
 <br>
 
 <img align="left" src="/images/flexible_rigid.png" width="150" style="margin-right:10px"/> <b>[Flexible explicit but rigid implicit learning in a visuomotor adaptation task](https://journals.physiology.org/doi/full/10.1152/jn.00009.2015)</b> <br>
-<b>Krista Bond</b> & Jordan Taylor (2015).\
+<b>Krista Bond</b> & Jordan Taylor (2017).\
 <i>Journal of Neurophysiology</i>.
 
 <br style="clear:both" />
