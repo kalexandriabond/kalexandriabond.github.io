@@ -30,13 +30,13 @@ evidence accumulation during flexible decision-making](https://github.com/kalexa
 <br>
 <br>
 
-<img align="left" src="/images/_flexible_rigid.png" width="150" style="margin-right:10px"/> <b>[Flexible explicit but rigid implicit learning in a visuomotor adaptation task](https://journals.physiology.org/doi/full/10.1152/jn.00009.2015)</b> <br>
+<!-- <img align="left" src="/images/_flexible_rigid.png" width="150" style="margin-right:10px"/> <b>[Flexible explicit but rigid implicit learning in a visuomotor adaptation task](https://journals.physiology.org/doi/full/10.1152/jn.00009.2015)</b> <br>
 <b>Krista Bond</b> & Jordan Taylor (2017).\
 <i>Journal of Neurophysiology</i>.
 
 <br style="clear:both" />
 <br>
-<br>
+<br> -->
 
 <img align="left" src="/images/fast_slow.png" width="150" style="margin-right:10px"/> <b>[Explicit and implicit processes constitute the fast and slow processes of sensorimotor learning](https://www.jneurosci.org/content/35/26/9568)</b> <br>
 Sam McDougle, <b>Krista Bond</b> & Jordan Taylor (2015).\
