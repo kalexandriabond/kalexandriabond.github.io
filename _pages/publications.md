@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <img align="left" src="/images/encoding_competition.png" width="150" style="margin-right:10px"/> <b>[Competition between action plans tracks with
-evidence accumulation during flexible decision-making](https://github.com/kalexandriabond/kalexandriabond.github.io)</b> <br>
+evidence accumulation during flexible decision-making](https://github.com/kalexandriabond/cortico-subcortico_competition_evidence_accum_4_flexibility)</b> <br>
 <b>Krista Bond</b>, Javier Rasero, Raghav Madan, Jyotika Bahuguna, Jonathan E Rubin, & Timothy Verstynen (2022).\
 <i>bioRxiv</i>.
 
