@@ -23,5 +23,10 @@ Welcome! I'm Alexandria, a computational cognitive neuroscientist at the [Center
 
 Broadly speaking, I'm interested in how learning processes evolve over time in naturalistic environments, where the landscape of reinforcement is ever-shifting. I approach this from a cognitive computational neuroscience perspective -- how does the brain implement the underlying learning algorithms that drive adaptive behavior? To get at this, I combine computational modeling, neuroimaging, physiological measures, and behavioral methods.
 
-[![Here](../images/defense_title.jpg)](https://www.youtube.com/watch?v=Cu29DsmkOow)
- is an overview of my work.
+See below for an overview of my work:
+
+[<img src="../images/defense_title.png " width="600" />](https://www.youtube.com/watch?v=Cu29DsmkOow) 
+<!-- replace with gif  -->
+
+
+
