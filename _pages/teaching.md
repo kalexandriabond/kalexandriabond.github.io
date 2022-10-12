@@ -13,7 +13,7 @@ author_profile: true
 <br>Played devil's advocate, developed assessment methods, graded research projects, and consulted with students to augment their understanding of theory. 
 <br>
 
-<b>TA for Data Science for Psychology and Neuroscience</b><i>Department of Psychology, Carnegie Mellon University, Spring 2018</i>
+<b>TA for Data Science for Psychology and Neuroscience</b> <i>Department of Psychology, Carnegie Mellon University, Spring 2018</i>
 <br>Designed data science tutorials ([coauthored Jupyter book](https://coaxlab.github.io/Data-Explorations/intro.html)). 
 <br>
 
