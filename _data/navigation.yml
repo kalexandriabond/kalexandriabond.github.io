@@ -6,8 +6,8 @@ main:
   - title: "Teaching"
     url: /teaching/
     
-#   - title: "Projects"
-#     url: /portfolio/
+   - title: "Consulting"
+     url: /consulting/
 
   - title: "CV"
     url: /files/bond.pdf
