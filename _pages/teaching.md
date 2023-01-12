@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 <b>Instructor for Cognitive Neuroscience Research Methods</b> <i>Department of Psychology, Carnegie Mellon University, scheduled for Spring 2023</i>
-<br>Designed and instructed course using principles informed by educational research. Link forthcoming!
+<br>Designed and instructed [course](https://kalexandriabond.github.io/cog_neuro_methods/) using principles 
+informed by educational research. 
 <br>
 
 <b>TA for Cognitive Neuroscience Research Methods</b> <i>Department of Psychology, Carnegie Mellon University, Spring 2021</i>
