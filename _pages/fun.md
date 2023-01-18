@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: "Fun"
+title: ""
 permalink: /fun/
 author_profile: true
 ---
