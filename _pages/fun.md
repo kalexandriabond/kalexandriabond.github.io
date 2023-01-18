@@ -6,7 +6,10 @@ author_profile: true
 ---
 
  **Adventures in invention** 
-<img align="left" src="/images/first_3D_consumer_FDM_buch.png" width="800" style="margin-right:10px"/> During the peak of the pandemic, my partner and I wanted to time travel. Who wouldn't?
+<img align="left" src="/images/first_3D_consumer_FDM_buch.png" width="800" style="margin-right:10px"/> 
+<br>
+<br>
+During the peak of the pandemic, my partner and I wanted to time travel. Who wouldn't?
 <br>
 <br>
 Soooo we made a modern-day printing press and wrote about the future. This is both logical and efficient, right? ;) 
