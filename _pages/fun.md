@@ -9,6 +9,8 @@ author_profile: true
 <img align="left" src="/images/first_3D_consumer_FDM_buch.png" width="800" style="margin-right:10px"/> 
 <br>
 <br>
+<br>
+
 During the peak of the pandemic, my partner and I wanted to time travel. Who wouldn't?
 <br>
 <br>
