@@ -14,7 +14,7 @@ author_profile: true
 During the peak of the pandemic, my partner and I wanted to time travel. Who wouldn't?
 <br>
 <br>
-Soooo we made a modern-day printing press and wrote about the future. This is both logical and efficient, right? ;) 
+Soooo we made a modern-day printing press and wrote about the future. Both logical and efficient, right? ;) 
 <br>
 <br>
 This may be the first 100% 3D printed book using a fused deposition modeling (FDM) method on consumer-grade equipment.
