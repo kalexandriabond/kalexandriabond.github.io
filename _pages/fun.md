@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: double
 title: "Fun"
 permalink: /fun/
 author_profile: true
