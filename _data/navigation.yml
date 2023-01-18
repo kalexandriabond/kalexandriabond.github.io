@@ -9,9 +9,12 @@ main:
 #    - title: "Consulting"
 #      url: /consulting/
 
+  - title: "Leadership"
+    url: /leadership/
+
   - title: "CV"
     url: /files/bond.pdf
-    
+   
   - title: "Fun"
     url: /fun/
 
