@@ -18,3 +18,5 @@ I came up with the concept. Original writing and print implementation by [Reggie
  **BEWARE fellow neuroscientists: The plot may or may not include Neuralink.** 
 <br style="clear:both" />
 
+<!-- add Amsterdam Uni. Press Yearbook for Dutch History mention when ready: https://www.aup.nl/en/series/jaarboek-voor-nederlandse-boekgeschiedenis-yearbook-for-dutch-book-history -->
+
