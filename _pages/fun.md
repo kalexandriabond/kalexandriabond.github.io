@@ -26,3 +26,27 @@ I came up with the concept. Original writing and print implementation by [Reggie
 
 <!-- add Amsterdam Uni. Press Yearbook for Dutch History mention when ready: https://www.aup.nl/en/series/jaarboek-voor-nederlandse-boekgeschiedenis-yearbook-for-dutch-book-history -->
 
+
+<!-- **Adventures in cycling** 
+<img align="left" src="/images/first_3D_consumer_FDM_buch.png" width="800" style="margin-right:10px"/> 
+<br>
+<br>
+<br>
+txt
+<br style="clear:both" /> -->
+
+<!-- **Volcanoes** 
+<img align="left" src="/images/first_3D_consumer_FDM_buch.png" width="800" style="margin-right:10px"/> 
+<br>
+<br>
+<br>
+txt
+<br style="clear:both" /> -->
+
+<!-- **Computational design consulting** 
+<img align="left" src="/images/first_3D_consumer_FDM_buch.png" width="800" style="margin-right:10px"/> 
+<br>
+<br>
+<br>
+txt
+<br style="clear:both" /> -->
