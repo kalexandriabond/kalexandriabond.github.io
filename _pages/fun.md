@@ -14,7 +14,7 @@ author_profile: true
 During the peak of the pandemic, my partner and I wanted to time travel. Who wouldn't?
 <br>
 <br>
-Soooo we made a modern-day printing press and wrote about the future. This is both logical and efficient, right? ;) 
+Soooo we made a modern-day printing press and wrote about the future. Both logical and efficient, right? ;) 
 <br>
 <br>
 This may be the first 100% 3D printed book using a fused deposition modeling (FDM) method on consumer-grade equipment.
@@ -26,3 +26,27 @@ I came up with the concept. Original writing and print implementation by [Reggie
 
 <!-- add Amsterdam Uni. Press Yearbook for Dutch History mention when ready: https://www.aup.nl/en/series/jaarboek-voor-nederlandse-boekgeschiedenis-yearbook-for-dutch-book-history -->
 
+
+<!-- **Adventures in cycling** 
+<img align="left" src="/images/first_3D_consumer_FDM_buch.png" width="800" style="margin-right:10px"/> 
+<br>
+<br>
+<br>
+txt
+<br style="clear:both" /> -->
+
+<!-- **Volcanoes** 
+<img align="left" src="/images/first_3D_consumer_FDM_buch.png" width="800" style="margin-right:10px"/> 
+<br>
+<br>
+<br>
+txt
+<br style="clear:both" /> -->
+
+<!-- **Computational design consulting** 
+<img align="left" src="/images/first_3D_consumer_FDM_buch.png" width="800" style="margin-right:10px"/> 
+<br>
+<br>
+<br>
+txt
+<br style="clear:both" /> -->
