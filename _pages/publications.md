@@ -12,6 +12,13 @@ author_profile: true
 <br style="clear:both" />
 <br>
 
+<img align="left" src="/files/final_block_animation.gif" width="150" style="margin-right:10px"/> <b>[Adaptive decision policy dynamics](https://www.cmu.edu/dietrich/psychology/cognitiveaxon/documents/bond_dissertation.pdf)</b> <br>
+Dissertation advised by Timothy Verstynen (2022).\
+<i>Carnegie Mellon University</i>.
+
+<br style="clear:both" />
+<br>
+
 <img align="left" src="/images/drift_bound_dynamic.png" width="150" style="margin-right:10px"/> <b>[Dynamic decision policy reconfiguration under outcome uncertainty](https://elifesciences.org/articles/65540)</b> <br>
 <b>Krista Bond</b>, Kyle Dunovan, Alexis Porter, Jonathan E Rubin, & Timothy Verstynen (2022).\
 <i>eLife</i>.
