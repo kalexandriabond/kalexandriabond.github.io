@@ -12,8 +12,9 @@ author_profile: true
 <br style="clear:both" />
 <br>
 
-<img align="left" src="/files/final_block_animation.gif" width="150" style="margin-right:10px"/> <b>[Adaptive decision policy dynamics](https://www.cmu.edu/dietrich/psychology/cognitiveaxon/documents/bond_dissertation.pdf)</b> <br>
-Dissertation advised by Timothy Verstynen (2022).\
+<!-- <img align="left" src="/files/final_block_animation.gif" width="150" style="margin-right:10px"/>  -->
+<b>[Toward a minimal model for structure learning.](/files/bond_toward_minimal_SL.pdf)</b> <br>
+Draft (2020).\
 <i>Carnegie Mellon University</i>.
 
 <br style="clear:both" />
@@ -28,6 +29,17 @@ Dissertation advised by Timothy Verstynen (2022).\
 
 <br style="clear:both" />
 <br>
+
+<img align="left" src="/images/drift_bound_dynamic.png" width="150" style="margin-right:10px"/> <b>[Dynamic decision policy reconfiguration under outcome uncertainty](https://elifesciences.org/articles/65540)</b> <br>
+<b>Krista Bond</b>, Kyle Dunovan, Alexis Porter, Jonathan E Rubin, & Timothy Verstynen (2022).\
+<i>eLife</i>.
+
+
+
+<br style="clear:both" />
+<br>
+
+
 
 <img align="left" src="/images/structured_priors.png" width="150" style="margin-right:10px"/> <b>[Structural Learning in a Visuomotor Adaptation Task Is Explicitly Accessible](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5572440)</b> <br>
 <b>Krista Bond</b> & Jordan Taylor (2017).\
