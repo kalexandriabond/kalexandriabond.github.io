@@ -24,7 +24,17 @@ the Neural Basis of Cognition](https://www.cnbc.cmu.edu/) and the Psychology
 Department at Carnegie Mellon University. I work with [Tim 
 Verstynen](https://www.cmu.edu/dietrich/psychology/cognitiveaxon/members.html).
 
-Broadly speaking, I'm interested in how learning processes evolve over time in naturalistic environments, where the landscape of reinforcement is ever-shifting. I approach this from a cognitive computational neuroscience perspective -- how does the brain implement the underlying learning algorithms that drive adaptive behavior? To get at this, I combine computational modeling, neuroimaging, physiological measures, and behavioral methods.
+Did you know that a species of mold is capable of solving complex problems? No?!
+
+I, too, am constantly amazed by the adaptive capabilities of living organisms. As a neurotech enthusiast, I'm particularly interested in how natural organisms can inspire the development of more effective and efficient AI algorithms.
+
+Over the 9 years I've been lucky enough to study the brain, I've used a mix of empirical methods (neuroimaging, reach kinematics, eye-tracking), computational modeling (neural networks, drift diffusion modeling, Bayesian agents) and applied machine learning (neural decoding) to study the mechanisms of naturalistic learning and decision-making in biological agents. 
+
+In my free time, you'll likely catch me biking or running. I'm also passionate about leading DEI advocacy efforts with concrete impact, often through education & policy reform at the local level. 
+
+I'm currently seeking opportunities in neurotech and welcome collaboration or inquiries about my work. So if you're interested in teaming up, let's talk!
+
+
 
 See below for an overview of my work:
 
