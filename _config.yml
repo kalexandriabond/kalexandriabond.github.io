@@ -107,13 +107,13 @@ analytics:
 author:
   name             : "K. Alexandria Bond, PhD"
   avatar           : "/images/headshot_placeholder.jpg"
-  bio              : "Computational Cognitive Neuroscientist at Carnegie Mellon University"
-  location         : "Pittsburgh, PA"
+  bio              : "Computational Cognitive Neuroscientist at Yale School of Medicine"
+  location         : "New Haven, CT"
   # email            : "kbond@alumni.cmu.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:kbond@alumni.cmu.edu"
+      url: "mailto:alexandria.bond@yale.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
