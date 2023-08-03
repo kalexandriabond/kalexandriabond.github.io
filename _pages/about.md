@@ -30,14 +30,10 @@ I welcome collaboration and curiosity about my work. If you're interested in tea
 
 
 
-[//]: # (See below for an overview of my work:)
+<!--[<img src="../images/defense_title.png " width="600" />](https://www.youtube.com/watch?v=Cu29DsmkOow)-->
 
-[//]: # ()
-[//]: # ()
-[//]: # ([<img src="../images/defense_title.png " width="600" />]&#40;https://www.youtube.com/watch?v=Cu29DsmkOow&#41; )
 
-[//]: # ()
-[//]: # (<!-- replace with gif  -->)
+<!-- replace with gif -->
 
 
 
