@@ -19,7 +19,8 @@ redirect_from:
  -->
 
 
-Welcome! I'm Alexandria, a computational cognitive neuroscientist in the Psychiatry department at Yale. I work with [Al Powers](https://medicine.yale.edu/lab/powers/). I'm interested in developing precision psychiatry methods to improve the quality of life for neurodiverse people.
+Welcome! I'm Alexandria, a computational cognitive neuroscientist in the Psychiatry 
+Department at Yale. I work with [Al Powers](https://medicine.yale.edu/lab/powers/). I'm interested in developing precision psychiatry methods to improve the quality of life for neurodiverse people.
 
 
 Over the 9 years I've been lucky enough to study the brain, I've used a mix of empirical methods (neuroimaging, reach kinematics, eye-tracking), computational modeling (neural networks, drift diffusion modeling, Bayesian agents) and applied machine learning (neural decoding) to study the mechanisms of naturalistic learning and decision-making in biological agents. 
