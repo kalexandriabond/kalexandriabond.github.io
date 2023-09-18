@@ -5,7 +5,10 @@ permalink: /collaborators/
 author_profile: true
 ---
 
-Al Powers
-Tim Verstynen 
-Jordan Taylor 
+**Past \& current collaborators**
 
+Al Powers
+Cassie Eng
+Tim Verstynen 
+Jonathan Rubin
+Jordan Taylor 
