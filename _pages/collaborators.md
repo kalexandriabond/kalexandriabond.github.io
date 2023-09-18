@@ -5,10 +5,13 @@ permalink: /collaborators/
 author_profile: true
 ---
 
-**Past \& current collaborators**
 
 Al Powers
+<br>
 Cassie Eng
-Tim Verstynen 
+<br>
+Tim Verstynen
+<br> 
 Jonathan Rubin
+<br>
 Jordan Taylor 
