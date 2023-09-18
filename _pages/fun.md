@@ -11,7 +11,7 @@ author_profile: true
 <br>
 <br>
 
-During the peak of the pandemic, my partner and I wanted to time travel. Who wouldn't?
+During the peak of the pandemic, a friend and I wanted to time travel. Who wouldn't?
 <br>
 <br>
 Soooo we made a modern-day printing press and wrote about the future. Both logical and efficient, right? ;) 
