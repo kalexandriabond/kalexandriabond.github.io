@@ -4,15 +4,12 @@ main:
     url: /publications/
   - title: "CV"
     url: /files/bond.pdf
-  - title: "Teaching"
-    url: /teaching/
-    
   - title: "Collaborators"
     url: /collaborators/
-
   - title: "Leadership"
     url: /leadership/
-
+  - title: "Teaching"
+    url: /teaching/
   - title: "Adventures"
     url: /fun/
 
