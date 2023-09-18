@@ -2,19 +2,17 @@
 main:
   - title: "Publications"
     url: /publications/
-
+  - title: "CV"
+    url: /files/bond.pdf
   - title: "Teaching"
     url: /teaching/
     
-#    - title: "Consulting"
-#      url: /consulting/
+  - title: "Collaborators"
+    url: /collaborators/
 
   - title: "Leadership"
     url: /leadership/
 
-  - title: "CV"
-    url: /files/bond.pdf
-   
   - title: "Adventures"
     url: /fun/
 
