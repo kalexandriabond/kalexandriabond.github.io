@@ -49,7 +49,7 @@ Sam McDougle,<b>Krista Bond</b> & Jordan Taylor (2017).\
 <br>
 
 
-<img align="left" src="/images/_flexible_rigid.png" width="150" style="margin-right:10px"/> <b>[Flexible explicit but rigid implicit learning in a visuomotor adaptation task](https://journals.physiology.org/doi/full/10.1152/jn.00009.2015)</b> <br>
+<b>[Flexible explicit but rigid implicit learning in a visuomotor adaptation task](https://journals.physiology.org/doi/full/10.1152/jn.00009.2015)</b> <br>
 <b>Krista Bond</b> & Jordan Taylor (2015).\
 <i>Journal of Neurophysiology</i>.
 
