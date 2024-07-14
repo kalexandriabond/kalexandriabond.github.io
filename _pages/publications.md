@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Manuscripts & Publications"
+title: "Selected Manuscripts & Publications"
 permalink: /publications/
 author_profile: true
 ---
